@@ -55,7 +55,7 @@ flutter run
 
 **Сейфулла Тілеухан**
 
-![alt text](image-4.png) [GitHub](https://github.com/Tileukhan) ![alt text](image-5.png) [Linkedin](https://www.linkedin.com/in/tileukhan-seifulla-7934572a3/)
+<img src="image-4.png" alt="GitHub" width="30">[GitHub](https://github.com/Tileukhan) ![alt text](image-5.png) [Linkedin](https://www.linkedin.com/in/tileukhan-seifulla-7934572a3/)
 
 📸 Скриншоты
 ![alt text](image.png) | ![alt text](image-1.png) | ![alt text](image-2.png) | ![alt text](image-3.png)
