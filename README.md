@@ -30,7 +30,7 @@
 ### 2. Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/yourusername/todo_list_app.git
+git clone https://github.com/Tileukhan/todo-app.git
 ```
 
 ### 3. Перейдите в папку проекта
