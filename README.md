@@ -1,16 +1,17 @@
-# todo_app
+# Название проекта: "ToDo List App".
 
-A new Flutter project.
+## Описание: простое приложение для списка задач на Flutter.
 
-## Getting Started
+### Функции: добавление, редактирование, удаление задач, установка даты и категорий, сохранение через SharedPreferences.
 
-This project is a starting point for a Flutter application.
+### Инструкции по установке:
 
-A few resources to get you started if this is your first Flutter project:
+- Убедитесь, что установлен Flutter (Flutter установка).
+- Клонируйте репозиторий: git clone https://github.com/yourusername/todo_list_app.git.
+- Перейдите в папку: cd todo_list_app.
+- Установите зависимости: flutter pub get.
+- Запустите: flutter run.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Технологии: Flutter, Dart, SharedPreferences.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Автор: Сейфулла Тілеухан.
